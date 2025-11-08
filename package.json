@@ -1,0 +1,15 @@
+{
+  "name": "table-scraper",
+  "version": "1.0.0",
+  "description": "Scrape and sum numbers from dynamically generated tables",
+  "main": "scrape-tables.js",
+  "scripts": {
+    "scrape": "node scrape-tables.js"
+  },
+  "keywords": ["playwright", "scraper", "tables"],
+  "author": "24f2006326@ds.study.iitm.ac.in",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
